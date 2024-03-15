@@ -6,4 +6,6 @@ Copy content of the root settings.json file to the following location:
 
 Add `.vscode` folder to your project. Review list of the extensions you need.
 
+> IMPORTANT: Don't forget to install JetBrains Mono font from `https://www.jetbrains.com/lp/mono/`.
+
 Enjoy it :)
