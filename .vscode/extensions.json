@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-docker",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "golang.go",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.makefile-tools",
+    "DavidAnson.vscode-markdownlint",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "emeraldwalk.RunOnSave",
+    "bradlc.vscode-tailwindcss"
+  ]
+}

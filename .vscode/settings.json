@@ -1,0 +1,10 @@
+{
+  // Security settings
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.untrustedFolders": "open",
+
+  // Code runner settings
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.saveFileBeforeRun": true
+}
