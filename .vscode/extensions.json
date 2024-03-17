@@ -15,6 +15,7 @@
     "ms-python.python",
     "ms-python.debugpy",
     "emeraldwalk.RunOnSave",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "github.vscode-github-actions"
   ]
 }
